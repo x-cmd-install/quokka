@@ -1,11 +1,13 @@
 about:
-  description: Inspect and clean a USB-connected device from your terminal: storage, apps, media, and a live log viewer. No jailbreak, no root.
+  description:
+  |
+    Inspect and clean a USB-connected device from your terminal: storage, apps, media, and a live log viewer. No jailbreak, no root.
   license: MIT
   homepage: 
   head: 685254d
   archived: false
   latestVersion: v0.2.7
-  collectedAt: 2026-09-04T04:38:13Z
+  collectedAt: 2026-09-04T19:37:07Z
 timeline:
   created: 2026-05-25
   lastCommit: 2026-06-10
@@ -16,18 +18,26 @@ popularity:
   fork: 2
   release: 10
   contributor: 2
-  pullRequest: 16
+  pullRequest: 20
   issue: 1
 language:
   Rust: 901264
   Shell: 7433
-totalLine: 908697
+totalBytes: 908697
 recent:
   last30d:
     since: 2026-08-05
     release: 0
     mergedPR: 0
     openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 1
     closedIssue: 0
     openIssue: 0
     commit: 0
@@ -55,3 +65,21 @@ recent:
     closedIssue: 1
     openIssue: 0
     commit: 54
+  last720d:
+    since: 2024-09-14
+    release: 10
+    mergedPR: 4
+    openPR: 2
+    closedIssue: 1
+    openIssue: 0
+    commit: 56
+total:
+  release: 10
+  mergedPR: 4
+  openPR: 2
+  closedIssue: 1
+  openIssue: 0
+  commit: 56
+---
+---
+
