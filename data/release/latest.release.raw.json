@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4437520,
       "digest": "sha256:aa2fa0781c5b9da151b6796066f70c770dfb9a99b3875911fbec7f086259ed78",
-      "download_count": 95,
+      "download_count": 96,
       "created_at": "2026-06-03T19:26:23Z",
       "updated_at": "2026-06-03T19:26:23Z",
       "browser_download_url": "https://github.com/dutradotdev/quokka/releases/download/v0.2.7/quokka-cli-aarch64-apple-darwin.tar.xz"
