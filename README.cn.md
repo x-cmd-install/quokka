@@ -4,7 +4,7 @@
 
 Inspect and clean a USB-connected device from your terminal: storage, apps, media, and a live log viewer. No jailbreak, no root.
 
-![quokka](https://repo.x-cmd.io/quokka.svg)
+![quokka](https://repo.x-cmd.io/quokka.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,21 @@ x install quokka
 - **最新版本**: `v0.2.7` (2026-06-03)
 - **最近提交**: 2026-06-10
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-06-03T19:27:26Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dist-manifest.json](https://github.com/dutradotdev/quokka/releases/download/v0.2.7/dist-manifest.json) | 11.0 KiB | `other` |
+| [quokka-cli-aarch64-apple-darwin.tar.xz](https://github.com/dutradotdev/quokka/releases/download/v0.2.7/quokka-cli-aarch64-apple-darwin.tar.xz) | 4.2 MiB | `native/darwin/arm64` |
+| [quokka-cli-aarch64-apple-darwin.tar.xz.sha256](https://github.com/dutradotdev/quokka/releases/download/v0.2.7/quokka-cli-aarch64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/arm64` |
+| [quokka-cli-installer.sh](https://github.com/dutradotdev/quokka/releases/download/v0.2.7/quokka-cli-installer.sh) | 49.5 KiB | `other` |
+| [quokka-cli-x86_64-apple-darwin.tar.xz](https://github.com/dutradotdev/quokka/releases/download/v0.2.7/quokka-cli-x86_64-apple-darwin.tar.xz) | 4.5 MiB | `native/darwin/x64` |
+| [quokka-cli-x86_64-apple-darwin.tar.xz.sha256](https://github.com/dutradotdev/quokka/releases/download/v0.2.7/quokka-cli-x86_64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/x64` |
+| [quokka-cli.rb](https://github.com/dutradotdev/quokka/releases/download/v0.2.7/quokka-cli.rb) | 1.6 KiB | `other` |
+| [sha256.sum](https://github.com/dutradotdev/quokka/releases/download/v0.2.7/sha256.sum) | 290 B | `other` |
+| [source.tar.gz](https://github.com/dutradotdev/quokka/releases/download/v0.2.7/source.tar.gz) | 6.9 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/dutradotdev/quokka/releases/download/v0.2.7/source.tar.gz.sha256) | 81 B | `other` |
 
 ## 流行度
 
@@ -61,4 +75,4 @@ quokka 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:55:03Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:32:52Z._
