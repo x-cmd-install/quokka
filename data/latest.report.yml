@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.7"
   latestRelease: "v0.2.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:54:56Z
+  collectedAt: 2026-09-10T16:32:42Z
 timeline:
   created: 2026-05-25
   lastCommit: 2026-06-10
@@ -84,7 +84,7 @@ total:
   commit: 56
 ---
 path: /home/runner/.x-repo/github.com/dutradotdev/quokka
-collectedAt: 2026-09-10T04:54:58Z
+collectedAt: 2026-09-10T16:32:44Z
 loc:
   Rust:
     code: 19618
