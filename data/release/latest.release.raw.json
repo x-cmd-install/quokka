@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11264,
       "digest": "sha256:45e8a93a76a2d49407571e5fd4439d4172c737c5c676c76f74951b9f3fc5d140",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-06-03T19:26:23Z",
       "updated_at": "2026-06-03T19:26:23Z",
       "browser_download_url": "https://github.com/dutradotdev/quokka/releases/download/v0.2.7/dist-manifest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4437520,
       "digest": "sha256:aa2fa0781c5b9da151b6796066f70c770dfb9a99b3875911fbec7f086259ed78",
-      "download_count": 117,
+      "download_count": 118,
       "created_at": "2026-06-03T19:26:23Z",
       "updated_at": "2026-06-03T19:26:23Z",
       "browser_download_url": "https://github.com/dutradotdev/quokka/releases/download/v0.2.7/quokka-cli-aarch64-apple-darwin.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:24d1bdc29c198c5693110808c971addd39d06ba967f99ecb2b4e3c0e7f4a4a2d",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-06-03T19:26:23Z",
       "updated_at": "2026-06-03T19:26:23Z",
       "browser_download_url": "https://github.com/dutradotdev/quokka/releases/download/v0.2.7/quokka-cli-aarch64-apple-darwin.tar.xz.sha256"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 50693,
       "digest": "sha256:8a5df6d56cdb35fb19d560dc37c542d0b0fd2d6377248878251b3196185abc06",
-      "download_count": 32,
+      "download_count": 33,
       "created_at": "2026-06-03T19:26:23Z",
       "updated_at": "2026-06-03T19:26:23Z",
       "browser_download_url": "https://github.com/dutradotdev/quokka/releases/download/v0.2.7/quokka-cli-installer.sh"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4739032,
       "digest": "sha256:0582486e3288d519f964d14044e9996f5e06191f84cabce93eeca3bd80331cb8",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-06-03T19:26:23Z",
       "updated_at": "2026-06-03T19:26:23Z",
       "browser_download_url": "https://github.com/dutradotdev/quokka/releases/download/v0.2.7/quokka-cli-x86_64-apple-darwin.tar.xz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:73e8ddf93cf3eb41ad4bef889759f6de4df37607fd3772bb10c1cc55c40fb7fd",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-06-03T19:26:23Z",
       "updated_at": "2026-06-03T19:26:24Z",
       "browser_download_url": "https://github.com/dutradotdev/quokka/releases/download/v0.2.7/quokka-cli-x86_64-apple-darwin.tar.xz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1688,
       "digest": "sha256:cd377841e869776ca9534e6f6819e78510c925fdd85861e91178fad7996fce61",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-06-03T19:26:23Z",
       "updated_at": "2026-06-03T19:26:24Z",
       "browser_download_url": "https://github.com/dutradotdev/quokka/releases/download/v0.2.7/quokka-cli.rb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 290,
       "digest": "sha256:87b0aabe0d7180f753813ac9afc78936c077b71810930c1ac8f9a21df7b0ce46",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-06-03T19:26:23Z",
       "updated_at": "2026-06-03T19:27:26Z",
       "browser_download_url": "https://github.com/dutradotdev/quokka/releases/download/v0.2.7/sha256.sum"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 7193550,
       "digest": "sha256:a07c12f94a37cd73aa680d40c1b176865025f44a7e33a24ff382f83640791e93",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-06-03T19:26:24Z",
       "updated_at": "2026-06-03T19:26:24Z",
       "browser_download_url": "https://github.com/dutradotdev/quokka/releases/download/v0.2.7/source.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:14f1879532308dc50b9526893c739345e8353f896119243ed4af3585c86bcf60",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-06-03T19:26:24Z",
       "updated_at": "2026-06-03T19:26:24Z",
       "browser_download_url": "https://github.com/dutradotdev/quokka/releases/download/v0.2.7/source.tar.gz.sha256"
